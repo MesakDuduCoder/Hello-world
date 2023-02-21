@@ -50,12 +50,17 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-A web browser.
+1. A web browser
+2. git installed in your computer(optional)
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder using git command
+$ git clone https://github.com/MesakDuduCoder/Hello-world.git
 
+Or you can also download this project as Zip here: 
+https://github.com/MesakDuduCoder/Hello-world 
+by clicking the green Code button.
 ### Run project
 
 To run the project just open the index.html file.
